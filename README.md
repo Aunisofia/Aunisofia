@@ -10,7 +10,8 @@ I am a curious and ambitious girl trying to survive in this world!
 *   ✉️  You can contact me at [aunisofia@graduate.utm.my](mailto:aunisofia@graduate.utm.my)
 *   🧠  I'm learning C++ programming
 *   🤝  I'm open to collaborating on interesting project
-*   ⚡  I might be ENFJ but I quite shy🤭### Skills 
+*   ⚡  I might be ENFJ but I quite shy🤭
+*   ### Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
                     </p>
