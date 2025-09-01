@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Auni Sofia
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Auni Sofia
 ==================================================================================================================================
 
-Data Engineering student
+👩🏼‍🎓2nd year Data Engineering student
 ------------------------
 
 I am a curious and ambitious girl trying to survive in this world!
