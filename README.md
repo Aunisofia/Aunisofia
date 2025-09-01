@@ -1,7 +1,10 @@
 
 ### <div align="center">Hi, I'm Auni Sofia 🌸</div>  
-  
 
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=Aunisofia&&style=flat-square" align="center" />
+</div>  
+  
 👩🏼‍🎓I am 2nd year Data Engineering  
   
 
@@ -27,16 +30,8 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Aunisofia&&style=flat-square" align="center" />
-</div>  
-  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Aunisofia&&style=flat-square" align="center" />
-</div>  
   
-
 <br/>  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aunisofia" alt="aunisofia" /></a> </p>
